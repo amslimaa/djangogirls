@@ -1,1 +1,1 @@
-Testando git
+blog django girls tutorial 
